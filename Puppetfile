@@ -22,13 +22,13 @@ mod 'ssh',
   :ref => 'master'
 
 mod 'ntp',
-  :git => 'https://github.com/rajagennu/puppet-ntp_1.git'
+  :git => 'https://github.com/rajagennu/puppet-ntp_1.git',
   :ref => 'master'
 
 mode 'role',
-  :git => 'https://github.com/rajagennu/puppet-role.git'
+  :git => 'https://github.com/rajagennu/puppet-role.git',
   :ref => 'master'
 
 mode 'profile',
-  :git => 'https://github.com/rajagennu/puppet-profile.git'
+  :git => 'https://github.com/rajagennu/puppet-profile.git',
   :ref => 'master'
