@@ -20,7 +20,7 @@ mod "garethr-docker", 	     '5.3.0'
 #  :branch => 'docs_experiment'
 
 mod 'ssh',
-  :git => 'https://github.com/rajagennu/puppet-ssh.git',
+  :git => 'https://github.com/rajagennu/puppet-ssh.git'
   :ref => 'master'
 
 mod 'ntp',
