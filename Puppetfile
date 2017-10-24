@@ -32,8 +32,8 @@ mod 'ntp',
 
 mod 'role',
   :git => 'https://github.com/rajagennu/puppet-role.git',
-  :ref => 'development'
+  :ref => 'master'
 
 mod 'profile',
   :git => 'https://github.com/rajagennu/puppet-profile.git',
-  :ref => 'development'
+  :ref => 'master'
