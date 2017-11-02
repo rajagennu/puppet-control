@@ -1,0 +1,8 @@
+---
+profile::nginx::vhosts:
+  - 'fqdn': 'rgenupula2.mylabserver.com'
+     'port': 80
+     'server_aliases': ''
+  - 'fqdn': 'rgenupula2.mylabserver.com'
+    'port' : 80
+    'server_aliases': 'rgenupula2b.mylabserver.com' 
