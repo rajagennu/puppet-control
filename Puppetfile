@@ -45,3 +45,7 @@ mod 'nginx',
 mod 'fail2ban',
   :git => 'git@github.com:rajagennu/puppet-fail2ban.git',
   :ref => 'master'
+
+mod 'dev_machine',
+  :git => 'git@github.com:rajagennu/puppet-dev_machine.git',
+  :ref => 'master'
